@@ -27,13 +27,11 @@
 }
 
 .container__botao:checked ~ .menu-intens > .cabecalho__menu-hamburguer  {
-    background-image: url("/img/MenuAberto.svg");
+    background-image: url("../img/MenuAberto.svg");
 }
 
 .container__botao:checked ~ .menu-intens {
     background: var(--cor-azul-degrade);  
-
-
 
 }
 
